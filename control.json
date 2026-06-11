@@ -1,7 +1,5 @@
 {
-  "online_master_key": "MK586",
   "allowed_devices": [
-    "MK-WYH8K8PQ",
-    "MK-4PCYQYYC"
+    { "id": "ADMIN-M-K-TRADER", "status": "allowed" }
   ]
 }
