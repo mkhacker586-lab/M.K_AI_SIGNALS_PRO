@@ -1,5 +1,8 @@
 {
   "allowed_devices": [
-    { "id": "MK-85YHU3XQ", "status": "allowed" }
+    { 
+      "id": "MK-85YHU3XQ", 
+      "status": "allowed" 
+    }
   ]
 }
