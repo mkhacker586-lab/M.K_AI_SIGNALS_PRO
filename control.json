@@ -1,8 +1,4 @@
 {
-  "allowed_devices": [
-    { 
-      "id": "MK-85YHU3XQ", 
-      "status": "allowed" 
-    }
-  ]
+  "online_master_key": "MK586",
+  "allowed_devices": ["MK-ABCD1234"]
 }
