@@ -1,6 +1,30 @@
 {
-  "online_master_key": "MK586",
+  "system_config": {
+    "master_session_key": "MK586",
+    "telegram_bot_token": "8824079622:AAHy6GFXRgaIkrrMCkEJswxwQKStbB563Nk",
+    "telegram_chat_id": "7588675873",
+    "telegram_contact_username": "MK_TRADER586"
+  },
   "allowed_devices": [
-    "MK-85YHU3XQ"
+    { "id": "MK-85YHU3XQ", "status": "allowed" },
+    { "id": "MK-885941", "status": "allowed" },
+    { "id": "MK-127583", "status": "allowed" },
+    { "id": "MK-394817", "status": "allowed" },
+    { "id": "MK-561204", "status": "allowed" },
+    { "id": "MK-782915", "status": "allowed" },
+    { "id": "MK-238674", "status": "allowed" },
+    { "id": "MK-916352", "status": "allowed" },
+    { "id": "MK-475821", "status": "allowed" },
+    { "id": "MK-603194", "status": "allowed" },
+    { "id": "MK-854276", "status": "allowed" },
+    { "id": "MK-191537", "status": "allowed" },
+    { "id": "MK-728405", "status": "allowed" },
+    { "id": "MK-340918", "status": "allowed" },
+    { "id": "MK-967143", "status": "allowed" },
+    { "id": "MK-512786", "status": "allowed" },
+    { "id": "MK-284659", "status": "allowed" },
+    { "id": "MK-731824", "status": "allowed" },
+    { "id": "MK-458397", "status": "allowed" },
+    { "id": "MK-620145", "status": "allowed" }
   ]
 }
